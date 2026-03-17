@@ -72,6 +72,9 @@ sudo systemctl restart nginx
 
 ---
 
+## Nginx Running
+![image](screenshots/nginx-installation.png)
+
 ## Outcome
 
 Successfully installed nginx and ran a local web server.
