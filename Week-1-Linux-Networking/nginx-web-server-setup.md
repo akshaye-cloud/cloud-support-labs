@@ -73,7 +73,7 @@ sudo systemctl restart nginx
 ---
 
 ## Nginx Running
-![image](screenshots/nginx-installation.png)
+![image]("C:\Users\aksha\OneDrive\Pictures\Screenshots\nginx-installation.png")
 
 ## Outcome
 
